@@ -1,0 +1,47 @@
+.container {
+  background-color:rgb(86, 177, 247);
+  width: 650px;
+  justify-content: center;
+}
+
+.formDiv {
+  background-color: white;
+  width: 400px;
+  padding: 30px;
+  border-radius: 10px;
+  -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+}
+
+.alert {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.creditCard{
+    margin-top: -50%;
+    padding: 30px;;
+}
+
+.table {
+  width:auto;  /* content width */
+  background-color:rgb(255, 255, 255);
+  border-radius: 10px;
+  margin:10px;  /* space between border and other elements */
+  padding:10px;  /* space between content and border */
+  text-align:center; 
+  display:inline-block; /* block, inline-blobk */
+}
+
+.Cell {  
+  background-color:rgb(86, 177, 247);
+  margin:100px;  
+  padding:20px;  
+	font-style:normal;
+  text-align:left; 
+}
+
+
+
+
