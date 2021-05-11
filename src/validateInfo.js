@@ -16,6 +16,18 @@ export default function validateInfo(values) {
   errors.cexp = false;
   errors.ccvv = false;
 
+  //Card Number Verification
+  if (values.cardNumber === null || !values.cardNumber.trim()) {
+    errors.message = "Credit card number is not complete";
+  } 
+  if (values.cardNumber >= 17) {
+    errors.message = "Please enter a 16 digit value";
+  } else if (creditCard.isValid) {
+    errors.cnumber = true;
+  } else{
+    errors.message = "Credit card number is invalid";
+  }
+
   //Card CVV expiration
   if (values.cardSecurityCode === null || !values.cardSecurityCode.trim()) {
     errors.message = "Credit card CVC is not complete";
@@ -25,7 +37,9 @@ export default function validateInfo(values) {
     errors.message = "Credit card CVC is invalid";
   }
 
-  //Card Expiration Verification
+  
+
+  //Card Expire Verification
   if (values.cardExpiration === null || !values.cardExpiration.trim()) {
     errors.message = "Credit card expiration date is not complete";
   } else if (creditCard.expirationDate.isValid) {
