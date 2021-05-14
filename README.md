@@ -1,3 +1,4 @@
+
 A simple form created in React for Credit Card handling with the following aspects:
 
 1. Displays an active credit card. Including cards from the following providers (American Express, Diners Club, Visa, MasterCard and so on).
@@ -14,4 +15,4 @@ A simple form created in React for Credit Card handling with the following aspec
 Sample Shots:
 
 ![Screen Shot 2021-05-11 at 7 47 36 am](https://user-images.githubusercontent.com/64237561/118259132-20c91100-b4f4-11eb-86c1-b098c369dc70.png)
-![Screen Shot 2021-05-11 at 7 50 08 am](https://user-images.githubusercontent.com/64237561/118259146-232b6b00-b4f4-11eb-883a-7ae5473b9304.png)
+![Screen Shot 2021-05-11 at 7 50 08 am](https://user-images.githubusercontent.com/64237561/118259222-3e967600-b4f4-11eb-8b49-f3e88c6b4eae.png)
