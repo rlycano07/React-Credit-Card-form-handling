@@ -10,3 +10,8 @@ A simple form created in React for Credit Card handling with the following aspec
 9. Positioning elements on the page with credit card overlapping the form.
 10. Custom boxes using CSS.
 11. The credit card MUST overlap the form.
+
+Sample Shots:
+
+![Screen Shot 2021-05-11 at 7 47 36 am](https://user-images.githubusercontent.com/64237561/118259132-20c91100-b4f4-11eb-86c1-b098c369dc70.png)
+![Screen Shot 2021-05-11 at 7 50 08 am](https://user-images.githubusercontent.com/64237561/118259146-232b6b00-b4f4-11eb-883a-7ae5473b9304.png)
