@@ -14,6 +14,5 @@ A simple form created in React for Credit Card handling with the following aspec
 
 Sample Shots:
 
-![Screen Shot 2021-05-11 at 7 47 36 am](https://user-images.githubusercontent.com/64237561/118259322-5f5ecb80-b4f4-11eb-83c6-1c8d203c0703.png)
-
-![Screen Shot 2021-05-11 at 7 50 08 am](https://user-images.githubusercontent.com/64237561/118259337-61c12580-b4f4-11eb-80ee-a29fb05e8f74.png)
+![Screen Shot 2021-05-11 at 7 47 36 am](https://user-images.githubusercontent.com/64237561/118259411-77364f80-b4f4-11eb-89cc-0bb8f340a8e1.png)
+![Screen Shot 2021-05-11 at 7 50 20 am](https://user-images.githubusercontent.com/64237561/118259423-7ac9d680-b4f4-11eb-8083-c10755a72062.png)
